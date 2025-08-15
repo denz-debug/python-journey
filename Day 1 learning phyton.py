@@ -3,7 +3,7 @@
 #y = "john pogi"
 #print (type(x))
 #print (type(y))
-
+git push -u origin main
 #ASSIGN MULTIPLE VALUES
 # -----------------------------------------------------------------
 #Many values to multiple variables
